@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CSI Backend App</string>
+    <string name="add_new_member">Add Member</string>
+    <string name="delete_member">Delete</string>
+    <string name="edit_member">Edit</string>
+    <string name="ii">II</string>
+    <string name="iii">III</string>
+    <string name="iv">IV</string>
+    <string name="pass_out_seniors">Pass Out Seniors</string>
+    <string name="student_number">Student Number</string>
+    <string name="editDelete">Edit</string>
+    <string name="name">Name</string>
+    <string name="github_link">GitHub</string>
+    <string name="facebook">Facebook</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="instagram">Instagram</string>
+    <string name="edit">Edit</string>
+</resources>
